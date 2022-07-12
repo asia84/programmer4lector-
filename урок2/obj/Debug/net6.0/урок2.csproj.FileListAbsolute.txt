@@ -1,0 +1,15 @@
+E:\Программирование\lesson4lecture(programming)\урок2\obj\Debug\net6.0\урок2.csproj.AssemblyReference.cache
+E:\Программирование\lesson4lecture(programming)\урок2\obj\Debug\net6.0\урок2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Программирование\lesson4lecture(programming)\урок2\obj\Debug\net6.0\урок2.AssemblyInfoInputs.cache
+E:\Программирование\lesson4lecture(programming)\урок2\obj\Debug\net6.0\урок2.AssemblyInfo.cs
+E:\Программирование\lesson4lecture(programming)\урок2\obj\Debug\net6.0\урок2.csproj.CoreCompileInputs.cache
+E:\Программирование\lesson4lecture(programming)\урок2\bin\Debug\net6.0\урок2.exe
+E:\Программирование\lesson4lecture(programming)\урок2\bin\Debug\net6.0\урок2.deps.json
+E:\Программирование\lesson4lecture(programming)\урок2\bin\Debug\net6.0\урок2.runtimeconfig.json
+E:\Программирование\lesson4lecture(programming)\урок2\bin\Debug\net6.0\урок2.dll
+E:\Программирование\lesson4lecture(programming)\урок2\bin\Debug\net6.0\урок2.pdb
+E:\Программирование\lesson4lecture(programming)\урок2\obj\Debug\net6.0\урок2.dll
+E:\Программирование\lesson4lecture(programming)\урок2\obj\Debug\net6.0\refint\урок2.dll
+E:\Программирование\lesson4lecture(programming)\урок2\obj\Debug\net6.0\урок2.pdb
+E:\Программирование\lesson4lecture(programming)\урок2\obj\Debug\net6.0\урок2.genruntimeconfig.cache
+E:\Программирование\lesson4lecture(programming)\урок2\obj\Debug\net6.0\ref\урок2.dll
