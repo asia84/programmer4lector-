@@ -1,0 +1,15 @@
+E:\Программирование\lesson4lecture(programming)\урок1\bin\Debug\net6.0\урок1.exe
+E:\Программирование\lesson4lecture(programming)\урок1\bin\Debug\net6.0\урок1.deps.json
+E:\Программирование\lesson4lecture(programming)\урок1\bin\Debug\net6.0\урок1.runtimeconfig.json
+E:\Программирование\lesson4lecture(programming)\урок1\bin\Debug\net6.0\урок1.dll
+E:\Программирование\lesson4lecture(programming)\урок1\bin\Debug\net6.0\урок1.pdb
+E:\Программирование\lesson4lecture(programming)\урок1\obj\Debug\net6.0\урок1.csproj.AssemblyReference.cache
+E:\Программирование\lesson4lecture(programming)\урок1\obj\Debug\net6.0\урок1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Программирование\lesson4lecture(programming)\урок1\obj\Debug\net6.0\урок1.AssemblyInfoInputs.cache
+E:\Программирование\lesson4lecture(programming)\урок1\obj\Debug\net6.0\урок1.AssemblyInfo.cs
+E:\Программирование\lesson4lecture(programming)\урок1\obj\Debug\net6.0\урок1.csproj.CoreCompileInputs.cache
+E:\Программирование\lesson4lecture(programming)\урок1\obj\Debug\net6.0\урок1.dll
+E:\Программирование\lesson4lecture(programming)\урок1\obj\Debug\net6.0\refint\урок1.dll
+E:\Программирование\lesson4lecture(programming)\урок1\obj\Debug\net6.0\урок1.pdb
+E:\Программирование\lesson4lecture(programming)\урок1\obj\Debug\net6.0\урок1.genruntimeconfig.cache
+E:\Программирование\lesson4lecture(programming)\урок1\obj\Debug\net6.0\ref\урок1.dll
