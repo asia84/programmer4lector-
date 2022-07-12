@@ -1,0 +1,15 @@
+E:\Программирование\lesson4lecture(programming)\урок4_фибоначи\bin\Debug\net6.0\урок4_фибоначи.exe
+E:\Программирование\lesson4lecture(programming)\урок4_фибоначи\bin\Debug\net6.0\урок4_фибоначи.deps.json
+E:\Программирование\lesson4lecture(programming)\урок4_фибоначи\bin\Debug\net6.0\урок4_фибоначи.runtimeconfig.json
+E:\Программирование\lesson4lecture(programming)\урок4_фибоначи\bin\Debug\net6.0\урок4_фибоначи.dll
+E:\Программирование\lesson4lecture(programming)\урок4_фибоначи\bin\Debug\net6.0\урок4_фибоначи.pdb
+E:\Программирование\lesson4lecture(programming)\урок4_фибоначи\obj\Debug\net6.0\урок4_фибоначи.csproj.AssemblyReference.cache
+E:\Программирование\lesson4lecture(programming)\урок4_фибоначи\obj\Debug\net6.0\урок4_фибоначи.GeneratedMSBuildEditorConfig.editorconfig
+E:\Программирование\lesson4lecture(programming)\урок4_фибоначи\obj\Debug\net6.0\урок4_фибоначи.AssemblyInfoInputs.cache
+E:\Программирование\lesson4lecture(programming)\урок4_фибоначи\obj\Debug\net6.0\урок4_фибоначи.AssemblyInfo.cs
+E:\Программирование\lesson4lecture(programming)\урок4_фибоначи\obj\Debug\net6.0\урок4_фибоначи.csproj.CoreCompileInputs.cache
+E:\Программирование\lesson4lecture(programming)\урок4_фибоначи\obj\Debug\net6.0\урок4_фибоначи.dll
+E:\Программирование\lesson4lecture(programming)\урок4_фибоначи\obj\Debug\net6.0\refint\урок4_фибоначи.dll
+E:\Программирование\lesson4lecture(programming)\урок4_фибоначи\obj\Debug\net6.0\урок4_фибоначи.pdb
+E:\Программирование\lesson4lecture(programming)\урок4_фибоначи\obj\Debug\net6.0\урок4_фибоначи.genruntimeconfig.cache
+E:\Программирование\lesson4lecture(programming)\урок4_фибоначи\obj\Debug\net6.0\ref\урок4_фибоначи.dll
